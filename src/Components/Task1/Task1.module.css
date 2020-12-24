@@ -1,0 +1,26 @@
+.TaskField {
+  padding: 20px;
+  background-image: linear-gradient(
+    45deg,
+    rgb(151, 214, 216),
+    rgb(102, 137, 165)
+  );
+  border: 1px solid blue;
+  border-radius: 5px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.container {
+  margin-bottom: 5px;
+  padding: 5px;
+  border: 1px solid blue;
+  border-radius: 5px;
+}
+
+.bigTitle {
+  color: red;
+}
+
+.smallTitle {
+  color: blue;
+}

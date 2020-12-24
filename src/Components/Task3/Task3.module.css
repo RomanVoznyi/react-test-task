@@ -1,0 +1,11 @@
+.TaskField {
+  padding: 20px;
+  background-image: linear-gradient(
+    45deg,
+    rgb(158, 158, 240),
+    rgb(57, 57, 148)
+  );
+  border: 1px solid blue;
+  border-radius: 5px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
